@@ -1,0 +1,2 @@
+# Poked-x
+Projeto Pokedéx
