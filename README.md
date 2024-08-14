@@ -1,54 +1,20 @@
 <h1>Pokédex <img src="https://github.com/user-attachments/assets/de4e479a-1661-4a25-b4ae-6c6cc2fba088" alt="image" width="30" height="30"> </h1> 
 
-
-Claro! Aqui está o `README.md` atualizado com o nome "Karen":
-
----
-
-# Pokédex
-
-![Pokédex](link-da-imagem)
-
-Este repositório contém o código-fonte de um site Pokédex, que permite aos usuários visualizar e buscar informações sobre diferentes Pokémon.
+Este repositório contém o código-fonte de um site Pokédex, que possibilita aos usuários buscar informações sobre diferentes Pokémon.
 
 ## Funcionalidades
 
 - **Busca por Pokémon**: Encontre Pokémon pelo nome ou ID.
-- **Visualização Detalhada**: Veja informações detalhadas sobre cada Pokémon, incluindo tipos, habilidades, estatísticas, e evoluções.
-- **Lista Completa**: Navegue por uma lista completa de todos os Pokémon disponíveis na Pokédex.
-- **Design Responsivo**: Interface adaptável para diferentes tamanhos de tela.
-
+- **Visualização Detalhada**: Veja informações sobre cada Pokémon, como, peso e altura.
+- **Lista Completa**: Navegue por uma extensa lista de todos os Pokémon disponíveis na Pokédex.
+  
 ## Tecnologias Utilizadas
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [Descreva se houver alguma API ou servidor]
-- **API**: [PokéAPI](https://pokeapi.co/) (ou outra API utilizada)
-- **Bibliotecas**: [Cite bibliotecas JavaScript ou CSS, como React, Bootstrap, etc.]
+- **API**: [PokéAPI](https://pokeapi.co/)
+- **Bibliotecas**: JavaScript e CSS
 
-## Instalação
-
-1. Clone o repositório:
-
-    ```bash
-    git clone https://github.com/Karen/pokedex.git
-    cd pokedex
-    ```
-
-2. Instale as dependências (se necessário):
-
-    ```bash
-    npm install
-    ```
-
-3. Inicie o servidor de desenvolvimento:
-
-    ```bash
-    npm start
-    ```
-
-4. Abra o navegador e acesse `http://localhost:3000`.
-
-## Como Contribuir
+## Para Contribuir
 
 1. Faça um fork do repositório.
 2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
@@ -58,19 +24,23 @@ Este repositório contém o código-fonte de um site Pokédex, que permite aos u
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença GPL-3.0](LICENSE).
 
 ## Créditos
 
 - Pokémon e todos os personagens relacionados são de propriedade da [Nintendo](https://www.nintendo.com/).
 - Este projeto usa dados da [PokéAPI](https://pokeapi.co/).
 
-## Contato
-
-- **Nome**: Karen
-- **E-mail**: karensilmf@fgmail.com
-- **GitHub**: [Karen](https://github.com/Karen)
-
 ---
 
-Substitua as informações específicas conforme necessário. Se precisar de mais alguma coisa, estou à disposição!
+
+## Para se divertir com a acesse [Pokédex](karenpokedex.vercel.app).
+
+Desenvolvido por Karen Silva.
+
+## Contato
+
+- **Nome**: Karen Silva
+- **E-mail**: karensilmf@fgmail.com
+- **GitHub**: [Karen](https://github.com/KarenSilva21)
+
